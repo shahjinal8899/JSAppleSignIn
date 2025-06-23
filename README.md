@@ -25,7 +25,7 @@ This repository provides a simple demo of implementing Sign in with Apple in an 
 • App ID with Sign in with Apple capability
 
 # 📄 Code Overview
-• AppleSignInVC.swift: Displays the Apple Sign-In button and handles the authentication flow. It contains logic to perform Sign in with Apple and manage tokens. Also displays name, email and user identifier
+• AppleSignInVC.swift: Displays the Apple Sign-In button and handles the authentication flow. It contains logic to perform Sign in with Apple and manage tokens. Also displays name, email and user identifier.
 
 # 🧪 Testing Notes
 • First-time sign-ins provide the full name and email.
