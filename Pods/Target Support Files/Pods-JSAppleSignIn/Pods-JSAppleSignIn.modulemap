@@ -1,0 +1,6 @@
+framework module Pods_JSAppleSignIn {
+  umbrella header "Pods-JSAppleSignIn-umbrella.h"
+
+  export *
+  module * { export * }
+}
